@@ -2,7 +2,7 @@
 
 Este é o projeto de curso desenvolvido para a disciplina de **Programação de Computadores II (CSI102)** do Instituto de Ciências Exatas e Aplicadas da **Universidade Federal de Ouro Preto (UFOP)**.
 
-**Alunos**: Gabriel Calili
+**Aluno**: Gabriel Biciate
 
 O sistema é uma aplicação desenvolvida em **Java** voltada para o gerenciamento de fluxo comercial e controle de estoque de uma loja de eletrônicos. A aplicação roda diretamente no terminal (CLI) e simula uma persistência de dados em memória por meio de coleções dinâmicas genéricas, sem interface gráfica ou banco de dados físico, priorizando a aplicação prática dos conceitos de Programação Orientada a Objetos (POO).
 

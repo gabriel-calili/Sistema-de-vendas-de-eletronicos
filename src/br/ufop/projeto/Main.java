@@ -37,15 +37,15 @@ public class Main {
 
         banco.cadastrarUsuario(new Gerente(1, "Carlos Gerente", "111.222.333-44"));
         banco.cadastrarUsuario(new Vendedor(2, "Ana Vendedora", "555.666.777-88"));
-        banco.cadastrarUsuario(new Comprador(3, "Gabriel Comprador"));
-        banco.cadastrarUsuario(new Comprador(4, "Rafael Comprador"));
+        banco.cadastrarUsuario(new Comprador(3, "Gabriel Biciate"));
+        banco.cadastrarUsuario(new Comprador(4, "Lucas Comprador"));
     }
 
     private static void exibirBemVindo() {
         System.out.println("---------------------------------------------------------------------");
         System.out.println("              SISTEMA DE VENDAS DE ELETRONICOS                       ");
         System.out.println("  Disciplina: Programacao de Computadores II (CSI102)                ");
-        System.out.println("  Alunos: Gabriel Calili, Rafael Fiuza                               ");
+        System.out.println("  Aluno: Gabriel Biciate                                             ");
         System.out.println("---------------------------------------------------------------------");
     }
 
