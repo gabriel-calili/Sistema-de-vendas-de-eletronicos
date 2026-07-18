@@ -1,4 +1,4 @@
-# Sistema de Vendas para Eletrônicos (POO II)
+# Sistema de Vendas para Eletrônicos
 
 Este é o projeto de curso desenvolvido para a disciplina de **Programação de Computadores II (CSI102)** do Instituto de Ciências Exatas e Aplicadas da **Universidade Federal de Ouro Preto (UFOP)**.
 
